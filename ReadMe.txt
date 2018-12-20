@@ -1,4 +1,4 @@
 git init
 add new word hello
 second update
-oo:wqaaaa
+oo:wq
